@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1500245937 source:c:\users\suazo\desktop\learning project\main.cpp
+	<iostream>
+	"Thermos.h"
+
+1500174736 source:c:\users\suazo\desktop\learning project\myfunctions.cpp
+	<iostream>
+
+1500245559 c:\users\suazo\desktop\learning project\thermos.h
+
+1500245715 source:c:\users\suazo\desktop\learning project\thermos.cpp
+	<iostream>
+	"Thermos.h"
+
