@@ -25,3 +25,6 @@ while(X < Y && Function == 2){
     cout<<X<<endl;
 }
 }
+Thermos :: ~Thermos(){
+cout<<endl<<"class has been deleted";
+}
