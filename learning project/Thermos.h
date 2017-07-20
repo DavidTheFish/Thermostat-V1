@@ -13,9 +13,11 @@ public:
 void cool(int &X, int const Y);
 void heat(int &X, int const Y);
 void stay_const(int &X, int const Y);
+~Thermos();
 
 };
 
 
 
 #endif // THERMOS_H_INCLUDED
+
