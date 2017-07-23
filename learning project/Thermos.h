@@ -11,13 +11,12 @@ public:
     int Current_temp;
     int Des_temp;
 //function prototypes, if you want more info refer to Thermos
+
 void cool(int &X, int const Y);
 void heat(int &X, int const Y);
 void stay_const(int &X, int const Y);
+void controller(Thermos *V);
 ~Thermos();
-
 };
-
-
 
 #endif // THERMOS_H_INCLUDED
